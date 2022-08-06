@@ -1,5 +1,5 @@
-# 泡芙专栏--后端api
-基于Node.js, express, mysql实现的vue3-column[泡芙专栏](https://github.com/puffovo/vue3-zhiye)的后端接口，包含登录、注册、专栏、文章、上传图片等操作的api。
+# 乐享专栏--后端api
+基于Node.js, express, mysql实现的vue3-column乐享专栏的后端接口，包含登录、注册、专栏、文章、上传图片等操作的api。
 # 技术栈
 Node.js + express + mysql
 # 项目运行
@@ -40,5 +40,3 @@ npm run start.dev(启动项目)
 9. 新建文章接口
 10. 删除文章接口
 11. 上传头图接口
-# 结语
-如果您想要学习后端express、nodejs以及MySQl，了解Vue3和TypeScript，了解，可以尝试该项目，欢迎交流讨论！
